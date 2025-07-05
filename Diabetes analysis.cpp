@@ -23,7 +23,7 @@ void getlevel3_symptoms(void);
 int analyse_symptoms(int);
 char display_message(int,int);
 };
-void main()
+int main()
 {
 char ch,choice,cho;
 //int m,n=2;
